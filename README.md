@@ -119,8 +119,3 @@ If your display shows only white pixels or a line, double-check wiring or try sw
 👨‍💻 Author & Credits
 
 Created by: Swastik (SW Robotics)
-Libraries:
-
-Adafruit GFX Library © Adafruit Industries
-
-Adafruit SSD1306 Library © Adafruit Industries
